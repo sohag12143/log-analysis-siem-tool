@@ -1,0 +1,8 @@
+user1 login failed
+user1 login failed
+user1 login failed
+user1 login failed
+user1 login failed
+admin login success
+192.168.1.10 access attempt
+192.168.1.10 login failed
